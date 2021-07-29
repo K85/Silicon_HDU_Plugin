@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: opentest4j-1.2.0.jar Silicon-1.0-SNAPSHOT.jar kotlin-stdlib-
+ 1.4.10.jar junit-jupiter-engine-5.6.0.jar junit-jupiter-api-5.6.0.jar k
+ otlin-stdlib-common-1.4.10.jar annotations-13.0.jar junit-platform-comm
+ ons-1.6.0.jar apiguardian-api-1.1.0.jar junit-platform-engine-1.6.0.jar
+
